@@ -1,0 +1,10 @@
+# .gitattributes
+
+# 文本文件：自动处理换行符
+*.cs    text eol=crlf
+*.xaml  text eol=crlf
+*.md    text eol=lf
+
+# 二进制文件：告诉 Git 不要动这些文件
+*.bin   binary
+*.dat   binary

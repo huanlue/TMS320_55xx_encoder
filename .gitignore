@@ -1,5 +1,7 @@
-data/
-run/
+run/*.iobj
+run/*.exe
+run/*.ipdb
+run/*.pdb
 .vs/
 Encoder/x64
 Encoder/x32
