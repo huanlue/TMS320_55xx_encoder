@@ -1,0 +1,7 @@
+data/
+run/
+.vs/
+Encoder/x64
+Encoder/x32
+Encoder/debug
+Encoder/Release
